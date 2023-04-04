@@ -16,16 +16,16 @@
 
 сама стенка:
 
-<img src="main/img3">
+<img src="/img/img3">
 
 результат столкновения со стеной:
 
-<img src="img2">
+<img src="/img/img1">
 
 
 А это чудо стенка приводить к победе:
 
-<img src="img1">
+<img src="img/img2">
 
 
 
