@@ -1,7 +1,8 @@
-<img src="https://img.shields.io/badge/Language-Python-important" >
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-important" >
+</p>
 ## Game "Labirint"
-Игра находиться в бета тесте (если его можно так назвать) и в будущем планируесться развитие данного проекта 
+Игра находиться в бета тесте (если его можно так называть) и в будущем планируесться развитие данного проекта 
 
 
 ## Как оно работает?
