@@ -16,16 +16,16 @@
 
 сама стенка:
 
-<img src="/img/img3">
+<img src="https://github.com/En1on/project1/blob/main/img/img3.png">
 
 результат столкновения со стеной:
 
-<img src="/img/img1">
+<img src="https://github.com/En1on/project1/blob/main/img/img1.png">
 
 
-А это чудо стенка приводить к победе:
+А это чудо стенка приводит к победе:
 
-<img src="/img/img2">
+<img src="https://github.com/En1on/project1/blob/main/img/img2.png">
 
 
 
@@ -37,9 +37,7 @@
 
 в командной строке пишем команду
 
-'''bash
-python3 game.py
-'''
+___python3 game.py___
 
 
 
